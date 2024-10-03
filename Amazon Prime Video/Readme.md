@@ -1,3 +1,5 @@
+This is a guided project that I followed from a tutorial on YouTube.
+
 YOUTUBE LINK - https://www.youtube.com/watch?v=_xs8XXlGQVM&t=53s
 
 ## __Dashboard__
