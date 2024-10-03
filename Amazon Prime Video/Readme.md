@@ -2,4 +2,3 @@ YOUTUBE LINK - https://www.youtube.com/watch?v=_xs8XXlGQVM&t=53s
 
 ## __Dashboard__
 
-(https://github.com/user-attachments/assets/f0a91bbd-6175-4dc9-8935-b62ef75f9b70)
